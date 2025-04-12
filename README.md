@@ -2,7 +2,7 @@
 
 A responsive image gallery built with Vue.js featuring stunning visuals and smooth transitions.
 
-![Gallery Preview](./screenshots/demo.gif)
+![demo video](./screenshots/demo.gif)
 
 ## Features
 
@@ -13,26 +13,40 @@ A responsive image gallery built with Vue.js featuring stunning visuals and smoo
 - Performance-optimized image loading  
 - Dark/light theme support
 
-## Installation and Usage
-
-Follow the steps below to set up and run the project locally:
 
 
-# Clone the repository
-git clone https://github.com/Uhiene/Halio.git
-cd Halio
+---
 
-# Install dependencies
-npm install
+## Installation
 
-# Start the development server
-npm run dev
+1. Clone the repository:
+   ```bash
+   git clone  https://github.com/Uhiene/Halio.git
+   ```
 
+2. Navigate to the project directory:
+   ```bash
+   cd montana-resort
+   ```
 
-Once the server is running, open your browser and navigate to:
-http://localhost:5173
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
 
-Explore the gallery and customize it as needed.
+---
+
+## Usage
+
+1. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+2. Open the link on the terminal:
+   ```
+   http://localhost:3000
+   ```
 
 ## Technologies Used
 
