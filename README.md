@@ -2,7 +2,7 @@
 
 A responsive image gallery built with Vue.js featuring stunning visuals and smooth transitions.
 
-![Gallery Preview](./screenshots/demo.jpg)
+![Gallery Preview](./screenshots/demo.gif)
 
 ## Features
 
@@ -17,7 +17,7 @@ A responsive image gallery built with Vue.js featuring stunning visuals and smoo
 
 Follow the steps below to set up and run the project locally:
 
-```bash
+
 # Clone the repository
 git clone https://github.com/Uhiene/Halio.git
 cd Halio
