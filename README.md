@@ -2,46 +2,41 @@
 
 A responsive image gallery built with Vue.js featuring stunning visuals and smooth transitions.
 
-![Gallery Preview](./screenshots/preview.jpg)
+![Gallery Preview](./screenshots/demo.jpg)
 
 ## Features
-- Full-screen image gallery with immersive viewing
-- Smooth fade and parallax transitions
-- Mobile-optimized responsive design
-- Custom pagination controls
-- Performance-optimized image loading
+
+- Full-screen image gallery with immersive viewing  
+- Smooth fade and parallax transitions  
+- Mobile-optimized responsive design  
+- Custom pagination controls  
+- Performance-optimized image loading  
 - Dark/light theme support
 
-## Installation
+## Installation and Usage
 
-Clone the repository:
+Follow the steps below to set up and run the project locally:
+
 ```bash
+# Clone the repository
 git clone https://github.com/Uhiene/Halio.git
 cd Halio
-Install the dependencies:
-   ```bash
-   npm install
-   ```
-```
----
 
-## Usage
+# Install dependencies
+npm install
 
-1. Start the development server:
-   ```bash
-   npm run dev
-   ```
+# Start the development server
+npm run dev
 
-2. Open the link on the terminal:
-   ```
-   http://localhost:5173
-   ```
 
-3. Explore the Montana Resort website and modify as needed.
+Once the server is running, open your browser and navigate to:
+http://localhost:5173
 
----
+Explore the gallery and customize it as needed.
 
 ## Technologies Used
 
-- **Frontend:** Vue, Tailwind CSS
-
+- Vue 3  
+- Tailwind CSS  
+- Vite  
+- NPM
